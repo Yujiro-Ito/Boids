@@ -9,5 +9,5 @@
 
 開発環境はOSXYosemite/Processing2.0
 
-##Auther
+## Auther
 [Yujiro-Ito](https://github.com/Yujiro-Ito/)
